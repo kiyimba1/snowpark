@@ -1,0 +1,13 @@
+.container {
+}
+
+.content {
+	background-color: #0088e3;
+	width: fit-content;
+	padding: 5px 10px;
+	border-radius: 5px;
+	color: white;
+	font-size: 15px;
+	font-weight: 600;
+	text-align: center;
+}

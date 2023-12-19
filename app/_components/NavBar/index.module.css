@@ -3,6 +3,8 @@
 	width: 100vw;
 	background-color: #0088e3;
 	margin: 0;
+	position: relative;
+	z-index: 20;
 }
 
 .navContainer {
