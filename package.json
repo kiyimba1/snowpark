@@ -14,14 +14,17 @@
     "next": "14.0.4",
     "react": "^18",
     "react-dom": "^18",
+    "react-icons": "^4.12.0",
     "react-leaflet": "^4.2.1",
-    "react-map-gl": "^7.1.6"
+    "react-map-gl": "^7.1.6",
+    "react-world-flags": "^1.6.0"
   },
   "devDependencies": {
     "@types/leaflet": "^1.9.8",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "@types/react-world-flags": "^1.4.5",
     "eslint": "^8",
     "eslint-config-next": "14.0.4",
     "typescript": "^5"

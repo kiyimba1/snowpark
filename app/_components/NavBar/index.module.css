@@ -1,0 +1,31 @@
+.container {
+	max-height: 60px;
+	width: 100vw;
+	background-color: #0088e3;
+	margin: 0;
+}
+
+.navContainer {
+	display: flex;
+	justify-content: space-between;
+	padding: 10px;
+	margin: 0 20px;
+	color: #eff6fd;
+}
+
+.title {
+	font-weight: 600;
+}
+
+.actions {
+	display: flex;
+	gap: 20px;
+	justify-content: space-between;
+}
+
+.currencySelector {
+	background: #0a99dc;
+	color: white;
+	padding: 3px;
+	border-radius: 10px;
+}
